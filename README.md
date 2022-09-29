@@ -19,7 +19,7 @@
 ### Screenshot
 
 ![HOME](images/home.html.png)
-![MOBILE](images/mobile.html.png)
+![MOBILE](images/home-mobile.png)
 
 ### Links
 
